@@ -5,12 +5,26 @@ user-agent: qoreHQ
 
 sites:
   - name: qore.no
-    url: https://www.qore.no
+    url: https://qore.no
+  - name: git.qore.no
+    url: https://git.qore.no
+  - name: beta.qore.no
+    url: https://beta.qore.no
+  - name: db.qore.no
+    url: https://db.qore.no
+  - name: 248.no
+    url: https://248.no
+  - name: actingquiet.com
+    url: https://actingquiet.com
+  - name: vagn.es
+    url: https://vagn.es
+  - name: rosvik.no
+    url: https://rosvik.no
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
+  #cname: uptime.qore.no
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/qoreHQ/uptime/master/assets/icon-white.svg
   name: qoreUptime
