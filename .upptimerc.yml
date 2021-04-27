@@ -10,6 +10,8 @@ sites:
     url: https://git.qore.no
   - name: beta.qore.no
     url: https://beta.qore.no
+    headers:
+    - "Authorization: $AUTH_QORE_BETA"
   - name: db.qore.no
     url: https://db.qore.no
   - name: 248.no
