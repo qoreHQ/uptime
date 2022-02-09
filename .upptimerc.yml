@@ -18,8 +18,6 @@ sites:
     url: https://248.no
   - name: actingquiet.com
     url: https://actingquiet.com
-  - name: vagn.es
-    url: https://vagn.es
   - name: rosvik.no
     url: https://rosvik.no
 
