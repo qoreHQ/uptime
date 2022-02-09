@@ -132,9 +132,9 @@
     "url": "https://vagn.es",
     "icon": "https://favicons.githubusercontent.com/vagn.es",
     "slug": "vagn-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -144,6 +144,7 @@
     "timeMonth": 228,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2021-09-08": 435,
       "2021-09-07": 54
     }
