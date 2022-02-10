@@ -20,6 +20,8 @@ sites:
     url: https://actingquiet.com
   - name: rosvik.no
     url: https://rosvik.no
+  - name: maxine.dev
+    url: https://maxine.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
