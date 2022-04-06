@@ -153,9 +153,9 @@
     "url": "https://maxine.dev",
     "icon": "https://favicons.githubusercontent.com/maxine.dev",
     "slug": "maxine-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -164,6 +164,8 @@
     "timeWeek": 89,
     "timeMonth": 113,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   }
 ]
